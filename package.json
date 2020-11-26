@@ -1,6 +1,6 @@
 {
-  "name": "dropSort",
-  "version": "1.0.0",
+  "name": "wd-drop-sort",
+  "version": "1.0.1",
   "author": "wuxiaodi",
   "main": "index.js",
   "license": "MIT",

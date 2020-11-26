@@ -19,7 +19,7 @@ const webpackConfigProd = {
     },
 
     output: {
-        filename: 'drop-sort.js',
+        filename: 'index.js',
         path: resolve('../lib'),
         libraryTarget:'commonjs2'
     },

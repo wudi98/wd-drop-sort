@@ -71,8 +71,7 @@ class Index extends Component {
                         onDragEnd={this.dragEnd}
                         onDragStart={this.dragStart}
                     >
-                        {/*<Item item={item} index={i}/>*/}
-                        <div>{item.name}</div>
+                        <Item item={item} index={i}/>
                     </div>
                 ))}
             </ul>
